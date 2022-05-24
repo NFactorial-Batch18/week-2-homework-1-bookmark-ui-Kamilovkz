@@ -25,8 +25,7 @@ struct WelcomeView: View {
                     .foregroundColor(.white)
                 customeButton()
             }.padding(.leading, 16)
-                .padding(.trailing
-                         , 16)
+                .padding(.trailing, 16)
         }
     }
 }
